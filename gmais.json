@@ -11,23 +11,30 @@
             "instagram": "https://www.instagram.com/radiogmaisfm",
             "facebook": "https://www.facebook.com",
             "youtube": "https://www.youtube.com/@gmaisfm",
-            "site": "https://gmaisfmgoiatuba.com.br",
-            "whatsapp": "https://wa.me/5564999041075",
-            "phone": "tel:+5564999041075"
+            "site": "https://gmaisfmbomjesus.com.br",
+            "whatsapp": "https://wa.me/556436084244",
+            "phone": "tel:+556436084244"
         },
         "schedule": [
             {
                 "day": "Segunda",
                 "time": "00:00",
-                "title": "Madrugada G Mais",
+                "title": "Programação G+ FM 87,9",
                 "host": "Automático",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
             {
                 "day": "Segunda",
-                "time": "05:00",
-                "title": "Programação Automática",
-                "host": "Automático",
+                "time": "04:00",
+                "title": "Madrugada com Deus",
+                "host": "Canindé",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+                {
+                "day": "Segunda",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
+                "host": "Marcelo Luar",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
             {
@@ -40,22 +47,22 @@
             {
                 "day": "Segunda",
                 "time": "12:00",
-                "title": "Programa Arena Esporte Total",
-                "host": "Fláviano Rato e Vitor Prado",
+                "title": "Programa Top Show",
+                "host": "Charles Godoi",
                 "image": "https://audiencemidia.com.br/json/img/vitor.png"
             },
             {
                 "day": "Segunda",
-                "time": "13:00",
-                "title": "Programa Top Show",
-                "host": "Charles Godoi",
+                "time": "15:00",
+                "title": "Programa Mistura de Ritmo",
+                "host": "Reinaldo Missias",
                 "image": "https://audiencemidia.com.br/json/img/charles.png"
             },
             {
                 "day": "Segunda",
-                "time": "15:00",
-                "title": "Programa Rodeio",
-                "host": "Elcimar Batista",
+                "time": "17:00",
+                "title": "Programa Só Modão",
+                "host": "Divino Severiano",
                 "image": "https://audiencemidia.com.br/json/img/elcimar.png"
             },
             {
@@ -72,6 +79,13 @@
                 "host": "Ana Lúcia",
                 "image": "https://audiencemidia.com.br/json/img/ana.png"
             },
+                {
+                "day": "Segunda",
+                "time": "23:00",
+                "title": "Um Encontro Marcado",
+                "host": "Gislene Birolo & Josué Batista",
+                "image": "https://audiencemidia.com.br/json/img/ana.png"
+            }
             {
                 "day": "Terça",
                 "time": "00:00",
