@@ -8,7 +8,7 @@
             "message": "AO VIVO agora na Rádio Gmais FM!"
         },
         "social": {
-            "instagram": "https://www.instagram.com/radiolegalfm879",
+            "instagram": "https://www.instagram.com/gmaisfmbj",
             "facebook": "https://www.facebook.com/tvbomemissora",
             "youtube": "https://www.youtube.com/@gmaisfm",
             "site": "https://gmaisfmbomjesus.com.br",
@@ -41,19 +41,26 @@
                 "day": "Segunda",
                 "time": "08:00",
                 "title": "Programa Bom Dia G Mais",
-                "host": "Helineia Martins & Maria Clara",
+                "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
                 {
                 "day": "Segunda",
                 "time": "11:00",
-                "title": "Programa Bom Dia G Mais",
+                "title": "JORNAL DA G+ FM 107,5",
                 "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
             {
                 "day": "Segunda",
                 "time": "12:00",
+                "title": "Almoçando Com Charles Godoi",
+                "host": "Charles Godoi",
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
+            },
+                {
+                "day": "Segunda",
+                "time": "13:00",
                 "title": "Programa Top Show",
                 "host": "Charles Godoi",
                 "image": "https://audiencemidia.com.br/json/img/charles.png"
@@ -118,7 +125,7 @@
                 "day": "Terça",
                 "time": "08:00",
                 "title": "Programa Bom Dia G Mais",
-                "host": "Helineia Martins & Maria Clara",
+                "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
                 {
@@ -195,7 +202,7 @@
                 "day": "Quarta",
                 "time": "08:00",
                 "title": "Programa Bom Dia G Mais",
-                "host": "Helineia Martins & Maria Clara",
+                "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
                 {
@@ -272,7 +279,7 @@
                 "day": "Quinta",
                 "time": "08:00",
                 "title": "Programa Bom Dia G Mais",
-                "host": "Helineia Martins & Maria Clara",
+                "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
                 {
@@ -349,7 +356,7 @@
                 "day": "Sexta",
                 "time": "08:00",
                 "title": "Programa Bom Dia G Mais",
-                "host": "Helineia Martins & Maria Clara",
+                "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
                 {
@@ -426,7 +433,7 @@
                 "day": "Sábado",
                 "time": "08:00",
                 "title": "Programa Bom Dia G Mais",
-                "host": "Helineia Martins & Maria Clara",
+                "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
                 {
