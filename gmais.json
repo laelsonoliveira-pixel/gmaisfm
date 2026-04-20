@@ -138,6 +138,13 @@
             {
                 "day": "Terça",
                 "time": "12:00",
+                "title": "Almoçando Com Charles Godoi",
+                "host": "Charles Godoi",
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
+            },
+                {
+                "day": "Terça",
+                "time": "13:00",
                 "title": "Programa Top Show",
                 "host": "Charles Godoi",
                 "image": "https://audiencemidia.com.br/json/img/charles.png"
@@ -215,6 +222,13 @@
             {
                 "day": "Quarta",
                 "time": "12:00",
+                "title": "Almoçando Com Charles Godoi",
+                "host": "Charles Godoi",
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
+            },
+                {
+                "day": "Quarta",
+                "time": "13:00",
                 "title": "Programa Top Show",
                 "host": "Charles Godoi",
                 "image": "https://audiencemidia.com.br/json/img/charles.png"
@@ -292,6 +306,13 @@
             {
                 "day": "Quinta",
                 "time": "12:00",
+                "title": "Almoçando Com Charles Godoi",
+                "host": "Charles Godoi",
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
+            },
+                {
+                "day": "Quinta",
+                "time": "13:00",
                 "title": "Programa Top Show",
                 "host": "Charles Godoi",
                 "image": "https://audiencemidia.com.br/json/img/charles.png"
@@ -369,9 +390,16 @@
             {
                 "day": "Sexta",
                 "time": "12:00",
+                "title": "Almoçando Com Charles Godoi",
+                "host": "Charles Godoi",
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
+            },
+                {
+                "day": "Sexta",
+                "time": "13:00",
                 "title": "Programa Top Show",
                 "host": "Charles Godoi",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/reinaldo.png"
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
             },
             {
                 "day": "Sexta",
