@@ -42,7 +42,7 @@
                 "time": "08:00",
                 "title": "Programa Bom Dia G Mais",
                 "host": "Elcimar Batista",
-                "image": "https://audiencemidia.com.br/json/img/logo_BJ.png"
+                "image": "https://audiencemidia.com.br/json/img/ELCIMAR.png"
             },
                 {
                 "day": "Segunda",
@@ -56,7 +56,7 @@
                 "time": "12:30",
                 "title": "Restaurando Vidas",
                 "host": "Alexandre Rabello",
-                "image": "https://audiencemidia.com.br/json/img/logo_BJ.png"
+                "image": "https://audiencemidia.com.br/json/img/alexandre.png"
             },
                 {
                 "day": "Segunda",
@@ -120,7 +120,7 @@
                 "time": "08:00",
                 "title": "Programa Bom Dia G Mais",
                 "host": "Elcimar Batista",
-                "image": "https://audiencemidia.com.br/json/img/logo_BJ.png"
+                "image": "https://audiencemidia.com.br/json/img/ELCIMAR.png"
             },
                 {
                 "day": "Terça",
@@ -134,7 +134,7 @@
                 "time": "12:30",
                 "title": "Restaurando Vidas",
                 "host": "Alexandre Rabello",
-                "image": "https://audiencemidia.com.br/json/img/logo_BJ.png"
+                 "image": "https://audiencemidia.com.br/json/img/alexandre.png"
             },
                 {
                 "day": "Terça",
@@ -198,7 +198,7 @@
                 "time": "08:00",
                 "title": "Programa Bom Dia G Mais",
                 "host": "Elcimar Batista",
-                "image": "https://audiencemidia.com.br/json/img/logo_BJ.png"
+                 "image": "https://audiencemidia.com.br/json/img/ELCIMAR.png"
             },
                 {
                 "day": "Quarta",
@@ -212,7 +212,7 @@
                 "time": "12:30",
                 "title": "Restaurando Vidas",
                 "host": "Alexandre Rabello",
-                "image": "https://audiencemidia.com.br/json/img/logo_BJ.png"
+               "image": "https://audiencemidia.com.br/json/img/alexandre.png"
             },
                 {
                 "day": "Quarta",
@@ -276,7 +276,7 @@
                 "time": "08:00",
                 "title": "Programa Bom Dia G Mais",
                 "host": "Elcimar Batista",
-                "image": "https://audiencemidia.com.br/json/img/logo_BJ.png"
+                "image": "https://audiencemidia.com.br/json/img/ELCIMAR.png"
             },
                 {
                 "day": "Quinta",
@@ -290,7 +290,7 @@
                 "time": "12:30",
                 "title": "Restaurando Vidas",
                 "host": "Alexandre Rabello",
-                "image": "https://audiencemidia.com.br/json/img/logo_BJ.png"
+                "image": "https://audiencemidia.com.br/json/img/alexandre.png"
             },
                 {
                 "day": "Quinta",
@@ -354,7 +354,7 @@
                 "time": "08:00",
                 "title": "Programa Bom Dia G Mais",
                 "host": "Elcimar Batista",
-                "image": "https://audiencemidia.com.br/json/img/logo_BJ.png"
+                "image": "https://audiencemidia.com.br/json/img/ELCIMAR.png"
             },
                 {
                 "day": "Sexta",
@@ -368,7 +368,7 @@
                 "time": "12:30",
                 "title": "Restaurando Vidas",
                 "host": "Alexandre Rabello",
-                "image": "https://audiencemidia.com.br/json/img/logo_BJ.png"
+                "image": "https://audiencemidia.com.br/json/img/alexandre.png"
             },
                 {
                 "day": "Sexta",
@@ -427,13 +427,7 @@
                 "host": "Rádio GMais",
                 "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/logo_BJ.png"
             },
-            {
-                "day": "Sábado",
-                "time": "08:00",
-                "title": "Programa Bom Dia G Mais",
-                "host": "Helineia Martins",
-                "image": "https://audiencemidia.com.br/json/img/helineia.png"
-            },
+            
                 {
                 "day": "Sábado",
                 "time": "12:00",
